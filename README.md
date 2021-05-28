@@ -8,6 +8,8 @@ Paper link: [Here!](https://www.sciencedirect.com/science/article/abs/pii/S01681
 
 The codes in this repository are ready to be used in the Google Colab environment. Just change the paths to your own.
 
+The networks' weights used to produce the results presented in the paper can be downloaded [here](https://drive.google.com/file/d/1XrCCrliIlmUpnEpHU-EA26nKPbC96iE_/view?usp=sharing).
+
 ## Proposed Framework
 
 ![](imgs/fig-arch-img.png)
