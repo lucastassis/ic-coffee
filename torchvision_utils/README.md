@@ -1,0 +1,1 @@
+Most of the codes in here are from Torchvision tutorials, for example [here](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html#torchvision-object-detection-finetuning-tutorial) and [here](https://github.com/pytorch/vision/tree/main/references/detection). 
